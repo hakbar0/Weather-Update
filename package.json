@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "weather-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakbar0/Weather-Update.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakbar0/Weather-Update/issues"
+  },
+  "homepage": "https://github.com/hakbar0/Weather-Update#readme",
+  "dependencies": {
+    "agentkeepalive": "^4.1.4",
+    "axios": "^0.24.0",
+    "bluebird": "^3.7.2",
+    "firebase": "^9.3.0",
+    "node-schedule": "^2.0.0"
+  }
+}
