@@ -9,3 +9,5 @@
 7. Solution was make get requests with one concurrent connection. Meaning one after the other, to prevent timeout and getting blocked. 
 8. When the response was provided this updated an object. Once all requests were made, the object updated Firebase with the new weather data. 
 
+### Installing
+Won't be much use installing this repo, as won't work without the config file.
